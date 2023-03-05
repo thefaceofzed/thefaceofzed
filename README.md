@@ -1,5 +1,6 @@
-![MasterHead](https://miro.medium.com/proxy/1*OF0xEMkWBv-69zvmNs6RDQ.gif)
+
 <h1 align="center">Hi 👋, I'm Ismail El Farouki</h1>
+![MasterHead](https://miro.medium.com/proxy/1*OF0xEMkWBv-69zvmNs6RDQ.gif)
 <h3 align="center">Full-stack web developer: Front-End and Back-End from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thefaceofzed&label=Profile%20views&color=0e75b6&style=flat" alt="thefaceofzed" /> </p>
