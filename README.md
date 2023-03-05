@@ -1,3 +1,4 @@
+![MasterHead](https://miro.medium.com/proxy/1*OF0xEMkWBv-69zvmNs6RDQ.gif)
 <h1 align="center">Hi 👋, I'm Ismail El Farouki</h1>
 <h3 align="center">Full-stack web developer: Front-End and Back-End from Morocco</h3>
 
