@@ -1,5 +1,4 @@
-
-![MasterHead]([https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif))
+![MasterHead]([https://miro.medium.com/proxy/1*OF0xEMkWBv-69zvmNs6RDQ.gif](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif))
 <h1 align="center">Hi 👋, I'm Ismail El Farouki</h1>
 <h3 align="center">Full-stack web developer: Front-End and Back-End from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IGyOkb1TufkAAAAM/who-asked.gif">
